@@ -1,0 +1,3 @@
+[submodule "externel/libshell"]
+	path = externel/libshell
+	url = https://github.com/legionus/libshell
